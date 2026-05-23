@@ -30,13 +30,33 @@ This project focuses on exploring a product dataset using Excel. It includes ess
 No command required — simply open the Excel file.
 
 ## Help
-```
-Data → Refresh All
-```
-If dashboard visuals don’t appear:
-```
-Check if Pivot Tables are connected to the correct data range.
-```
+
+### Excel File Not Opening
+> **Solution:**  
+> • Make sure Microsoft Excel is installed properly.  
+> • Check if the file was downloaded completely.  
+> • Try opening the file using Excel Online.  
+> • Ensure the file extension (.xlsx) is correct.
+
+---
+
+### Formula Not Working
+> **Solution:**  
+> • Check whether the formula starts with `=`  
+> • Verify the selected cell range  
+> • Ensure numbers are not stored as text  
+> • Remove extra spaces in the formula  
+> • Re‑enter the formula if Excel shows an error
+
+---
+
+### If Dashboard Visuals Don’t Appear
+> **Solution:**  
+> • Go to **Data → Refresh All**  
+> • Check if Pivot Tables are connected to the correct data range  
+> • Ensure slicers are linked to the right Pivot Table  
+> • Verify that the dataset was not moved or renamed
+
 
 ## Authors
 
@@ -54,12 +74,12 @@ Email: ishwaryac20@gmail.com
 
 ## License
 
-This project is licensed under the MIT License – see the LICENSE.md file for details.
+This project is created for educational and assignment purposes only.
 
 ## Acknowledgments
 
 - Excel data analysis tutorials
-- Dashboard design inspiration
-- awesome-readme
+- Github
+- Microsoft
 - PurpleBooth templates
 
